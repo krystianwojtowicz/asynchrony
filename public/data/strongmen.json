@@ -1,0 +1,19 @@
+{
+  "strongmen": [
+    {
+      "id": 1,
+      "name": "Mariusz",
+      "surname": "Pudzianowski"
+    },
+    {
+      "id": 2,
+      "name": "Martin",
+      "surname": "Licis"
+    },
+    {
+      "id": 3,
+      "name": "Hafthor",
+      "surname": "Bjornsson"
+    }
+  ]
+}
